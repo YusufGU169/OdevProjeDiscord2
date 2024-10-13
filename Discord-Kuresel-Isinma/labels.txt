@@ -1,0 +1,6 @@
+0 Plastik - Pet Sise
+1 Plastik - Poset
+2 Metal - Kutu Sise / Kavanoz
+3 Cam - Cam Sise
+4 Kagit - Siradan Kagit
+5 Kagit - Karton Kutu
